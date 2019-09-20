@@ -9,3 +9,4 @@ Here are some things I like:
 * Apples
 * Oranges
 * Bananas
+* Pineapple
